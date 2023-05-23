@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------
+Oda numarasi:20
+Musterinin Adi-Soyadi:Mehmet Kocak
+Kisi sayisi:5
+Toplam tutar:18000.00TL
+Giris tarihi:10:10:2020
+Cikis tarihi:4:11:2020
+----------------------------------------------------------------------------------
+Oda numarasi:19
+Musterinin Adi-Soyadi:Cemil Kocak
+Kisi sayisi:3
+Toplam tutar:5850.00TL
+Giris tarihi:12:11:2020
+Cikis tarihi:25:11:2020
+----------------------------------------------------------------------------------
+Oda numarasi:10
+Musterinin Adi-Soyadi:Mehmet kocak
+Kisi sayisi:4
+Toplam tutar:3600.00TL
+Giris tarihi:23:8:2022
+Cikis tarihi:29:8:2022
+----------------------------------------------------------------------------------
+Oda numarasi:10
+Musterinin Adi-Soyadi:Cemil kocak
+Kisi sayisi:2
+Toplam tutar:24300.00TL
+Giris tarihi:6:6:2000
+Cikis tarihi:2:2:2000
